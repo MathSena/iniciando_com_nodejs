@@ -1,0 +1,12 @@
+{
+  "name": "iniciando_com_nodejs",
+  "version": "1.0.0",
+  "description": "Primeiro projeto 2022 CodeDrops",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Matheus Sena",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
